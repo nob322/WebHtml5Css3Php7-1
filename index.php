@@ -1,3 +1,4 @@
+<!-- Este proyecto fue desarrollado por David (https://github.com/nob322) -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -282,7 +283,7 @@
             
         </section>
         <footer class="fontBlanco" >
-            <p class="centrarTextoHorizontal" style="font-size: 18px;margin-top:30px;">Este <strong>Sitio web fue desarrollado por <span class="fontVerdeLimon">David Sanchez </span> </strong> para <strong> <a href="http://isei.com.ar/" style="color:white; text-decoration: none;">Isei</a></strong> con <img src="img/tecnologiasEmpleadas.png" alt="Html5 css3 y php Logo" class="alinearVerticalmenteImg tecnologias"></p>
+            <p class="centrarTextoHorizontal" style="font-size: 18px;margin-top:30px;">Este <strong>Sitio web fue desarrollado por <span class="fontVerdeLimon"> David (https://github.com/nob322) </span> </strong> con <img src="img/tecnologiasEmpleadas.png" alt="Html5 css3 y php Logo" class="alinearVerticalmenteImg tecnologias"></p>
         </footer>
          </div>
     </body>
