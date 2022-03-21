@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Tu web title</title>
+<title>Veterinaria Ros</title>
 </head>
 <body style="background: darkgreen;">
 <!-- <body style="background: pink;"> -->
